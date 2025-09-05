@@ -2,8 +2,6 @@
 
 **Learning Objective:** To understand how to use LLM models and Google CLI coding agent to develop RAG/Chroma database-based applications
 
-**Due Date:** September 9, 2025
-
 ---
 
 ## Table of Contents
